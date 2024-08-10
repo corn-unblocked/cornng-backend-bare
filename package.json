@@ -1,0 +1,22 @@
+{
+  "name": "cornng-backend-bare",
+  "version": "0.1.0",
+  "description": "Bare backend for CornNG and other Bare proxies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corn-unblocked/cornng-backend-bare.git"
+  },
+  "author": "Vaughan Milliman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/corn-unblocked/cornng-backend-bare/issues"
+  },
+  "homepage": "https://github.com/corn-unblocked/cornng-backend-bare#readme",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "2.0.3"
+  }
+}
